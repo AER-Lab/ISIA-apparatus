@@ -4,4 +4,4 @@ The 'Immersive social interactions assay' (ISIA) apparatus consists of chambers 
 Perforated plastic tube dimensions: Length: 13.5 mm; Inner diameter: 3.7 mm.
 Plastic ring dimensions: Inner diameter: 2.5 cm; Length: 1.5 cm.
 
-You can find the 3D design files for the tube and ring, as well as images of the two-chamber apparatus.
+You can find the 3D design files for the tube holder, tube, and ring, as well as images of the two-chamber apparatus.
