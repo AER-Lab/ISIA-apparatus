@@ -1,1 +1,0 @@
-Printed with 0.6mm nozzle using standard PLA with 0.35 resolution using Prusa Mk3. Advised to use blue painters tape on print bed plate, mainly for the main tube piece (it makes minimal contact and can fail mid-way), and slow down the first layer considerably.
