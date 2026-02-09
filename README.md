@@ -1,7 +1,12 @@
 # ISIA-apparatus
-The 'Immersive social interactions assay' (ISIA) apparatus consists of chambers connected by a perforated plastic tube. To confine a mouse to one of the chambers, a plastic ring can be inserted into the tube, reducing its diameter. This modification ensures that mice with head-bars cannot move between the chambers, while mice without head-bars can move freely between them.
+The 'Immersive social interactions assay' (ISIA) apparatus consists of chambers connected by a perforated plastic tube. To confine a mouse to one of the chambers, a plastic ring (insert) can be inserted into the tube, reducing its diameter. This modification ensures that mice with head-bars cannot move between the chambers, while mice without head-bars can move freely between them.
 
-Perforated plastic tube dimensions: Length: 3.4 cm; Inner diameter: 3.8 cm.
-Plastic ring dimensions: Inner diameter: 2.5 cm; Length: 1.5 cm.
+Perforated plastic tube dimensions (per segment): 
+* Length: 3.4 cm
+* Inner diameter: 3.8 cm
+  
+Plastic ring (insert) dimensions:
+* Inner diameter: 2.5 cm
+* Length: 1.5 cm
 
-You can find the 3D design files for the tube holder, tube, and ring, as well as images of the two-chamber apparatus.
+You can find the 3D design files for the tube holder (flange), tube, and ring (insert), as well as images of the two-chamber apparatus.
